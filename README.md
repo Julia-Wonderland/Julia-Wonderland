@@ -1,7 +1,7 @@
 # Hi, I'm Julia 👋
 
 🎓 Artificial Intelligence student @ Poznan University of Technology  
-🤖 Interested in LLM, AI safety, Generative AI, AI application in medice and biology. 
+🤖 Interested in LLM, AI safety, Generative AI, AI application in medice and biology.   
 💡 LLM Section Leader @ AI Student Club "Ghost"  
 
 ---
