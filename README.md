@@ -1,16 +1,76 @@
-## Hi there 👋
+# Hi, I'm Julia 👋
 
-<!--
-**Julia-Wonderland/Julia-Wonderland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Artificial Intelligence student @ Poznan University of Technology  
+🤖 Interested in LLM, AI safety, Generative AI, AI application in medice and biology. 
+💡 LLM Section Leader @ AI Student Club "Ghost"  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- Third-year AI student with 7+ years of programming experience  
+- Active in AI community (hackathons, research-oriented projects)
+- Started programming in high school through participation in Polish IT Olympiad (Olimpiada Informatyczna)
+- 
+---
+
+## 🚀 Featured Projects
+
+### 🦷 Tooth Decay Detection (Raman Spectroscopy)
+- AUC ≈ 1.0 on 10k+ samples  
+- Models: MiniRocket, XGBoost, Deep Sets  
+- SHAP-based interpretability  
+🔗 https://github.com/StickStickens/FixedToothDecayProject  
+
+---
+
+### 📈 Weakly-Supervised Time Series Anomaly Detection
+- Macro-F1 = 0.98, Accuracy = 95.1%  
+- Bidirectional GRU for multi-label defect detection  
+- Custom pipelines for variable-length sequences  
+🔗 https://github.com/Julia-Wonderland/RNNs-weak-supervision-anomaly-detection  
+
+---
+
+### 🎮 Gameplay Event Detection (Computer Vision)
+- Real-time detection of game states from video  
+- Built using classical CV (no deep learning)  
+- Multi-stage event tracking system  
+🔗 https://github.com/Julia-Wonderland/Man_don-t_get_angry_events_detection  
+
+---
+
+### 🍷 Wine Reviews Dashboard
+- NLP + interactive dashboard for 100k+ reviews  
+- Sentence embeddings for semantic clustering  
+- Python + R Shiny pipeline  
+🔗 https://github.com/Julia-Wonderland/Wine-Reviews-Dashboard  
+
+---
+
+## 🏆 Hackathons & Experience
+
+**⚡ Ensemble AI Hackathon 2026**
+- Built OOD time-series forecasting pipeline (24h)  
+- Feature engineering: temporal, geospatial, weather  
+
+**🏥 MIT Healthcare Datathon 2025**
+- Predictive & explainable ML on clinical data  
+
+**👩‍💻 AI/ML Student Club "Ghost"**
+- LLM Section Leader  
+- Organizing sessions & contributing to ML projects  
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, SQL, C++, R  
+**ML/Data:** PyTorch, scikit-learn, pandas, NumPy, OpenCV  
+**Visualization:** Plotly, matplotlib, seaborn  
+**Tools:** Git, Docker, Linux  
+
+---
+
+## 📫 Contact
+
+- 💼 LinkedIn: https://www.linkedin.com/in/juliamiro%C5%84ska-999996388/
