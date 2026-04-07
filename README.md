@@ -10,7 +10,6 @@
 - Third-year AI student with 7+ years of programming experience  
 - Active in AI community (hackathons, research-oriented projects)
 - Started programming in high school through participation in Polish IT Olympiad (Olimpiada Informatyczna)
-- 
 ---
 
 ## 🚀 Featured Projects
