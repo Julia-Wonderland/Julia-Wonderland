@@ -10,6 +10,7 @@
 - Third-year AI student with 7+ years of programming experience  
 - Active in AI community (hackathons, research-oriented projects)
 - Started programming in C++ in high school through participation in Polish IT Olympiad (Olimpiada Informatyczna)
+- In my free time, I expand my knowledge by reading research papers on large language models (LLMs) and AI safety.
 ---
 
 ## 🚀 Featured Projects
