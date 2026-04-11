@@ -61,6 +61,8 @@
 
 ### LLM fine-tuning for mathematics: https://github.com/GHOST-Science-Club/llm-fine-tuning
 
+---
+
 ## 🏆 Hackathons & Experience
 
 **⚡ Ensemble AI Hackathon 2026**
