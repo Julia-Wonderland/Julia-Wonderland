@@ -48,14 +48,18 @@
 ---
 
 ### 🧩 C++ GUI Escape Maze Game
-Interactive maze-based game with built-in mini escape-room mechanics
-Developed in C++ using SFML for graphics and UI
-Tile-based system with semantic gameplay elements (puzzles, traps, paths, goal)
-Integrated scoring system encouraging puzzle-solving and exploration
-Role-based functionality: moderator mode with level editor for custom map creation
+ - Interactive maze-based game with built-in mini escape-room mechanics
+ - Developed in C++ using SFML for graphics and UI
+ - Tile-based system with semantic gameplay elements (puzzles, traps, paths, goal)
+ - Integrated scoring system encouraging puzzle-solving and exploration
+ - Role-based functionality: moderator mode with level editor for custom map creation
 🔗 https://github.com/StickStickens/our-innovative-game
 
 ---
+
+## Current projects:
+
+### LLM fine-tuning for mathematics: https://github.com/GHOST-Science-Club/llm-fine-tuning
 
 ## 🏆 Hackathons & Experience
 
